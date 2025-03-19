@@ -2,7 +2,7 @@
 # Bluestock IPO REST API
 
 **Developer:** Sompa Bhui
-**Email:** bhuisompa001@gmail.com 
+**Email:** sompabhui2022@vitbhopal.ac.in
 
 This project is a REST API developed for Bluestock Fintech to manage and showcase IPOs (Initial Public Offerings) to users. The application is built using Django and Django Rest Framework, with PostgreSQL (NeonDB) as the database. The admin can perform CRUD operations, while users can access protected endpoints through JWT authentication.
 
